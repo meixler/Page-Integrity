@@ -1,0 +1,99 @@
+html {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	margin: 0px;
+	padding: 5px;
+	border: 2px solid #FF7C1F;
+	font-family: 'Helvetica', 'Arial', 'sans-serif'; 
+	color: black;
+	font-size: 11pt;		
+}
+
+.container {
+	width: 100%;
+	margin: 0 auto;
+}
+
+.divTablefullwidth{
+	display: table;
+	width: 100%;
+}
+
+.divTable{
+	display: table;
+}
+
+.divTableRow {
+	display: table-row;
+}
+
+.divTableCell {
+	display: table-cell;
+}
+
+.divTableBody {
+	display: table-row-group;
+}
+
+p {
+	margin: 0px;
+	padding: 0px;
+	color: black;
+}
+
+h3 {
+	margin: 0px;
+	padding: 0 0 2px 0;
+	color: #FF7C1F;
+}
+
+h4 {
+	margin: 0px;
+	padding: 0 0 2px 0;
+	color: #000000;
+}
+
+h6 {
+	margin: 0px;
+	padding: 0 0 10px 0;
+	color: black;
+	font-size: 11pt;
+	font-weight: normal;		
+}
+
+pre {
+	margin: 0;
+	padding: 0;
+	font-size: 10pt;
+}
+
+a, a:link, a:visited, a:active {
+	color: blue;
+	text-decoration: none;
+}
+
+a:hover {
+	cursor: pointer;
+	color: red;
+}
+
+.divtitle { float:left; }
+
+.divlinks { float:right; }
+
+.orangecolor {
+	color: #FF7C1F;
+}
+
+.greycolor {
+	color: #DCDCDC;
+}
+
+.greencolor {
+	color: #145A32;
+}
+
+
